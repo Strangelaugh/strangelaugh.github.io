@@ -1,0 +1,7 @@
+To connect form internal monash networks please use the following hostname - 
+
+fit-web54-v20.ocio.monash.edu
+
+The host is visible externally to monash on the following - 
+
+hlauer.infotech.monash.edu.au
